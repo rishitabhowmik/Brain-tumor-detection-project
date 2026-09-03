@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+.venv/
+
+# Dataset
+MRI Images/
+
+# Uploaded images
+uploads/
+uploads/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
