@@ -95,8 +95,10 @@ cd Brain-tumor-detection-project
 
 ### 2. Create and activate a virtual environment
 
+Python 3.10 is recommended for this project.
+
 ```bash
-python -m venv venv
+py -3.10 -m venv venv
 venv\Scripts\activate
 ```
 
