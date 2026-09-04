@@ -84,6 +84,43 @@ Brain-tumor-detection-project/
 └── README.md
 
 ```
+## Installation
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/rishitabhowmik/Brain-tumor-detection-project.git
+cd Brain-tumor-detection-project
+```
+
+### 2. Create and activate a virtual environment
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+### 4. Run the application
+
+```bash
+python main.py
+```
+
+Open the local URL shown in the terminal, usually:
+
+```text
+http://127.0.0.1:5000
+```
+
+### 📌 Note
+
+The MRI dataset is not included in this repository. The trained model is stored using **Git LFS**.
+
 
 ## Dataset
 
@@ -101,4 +138,4 @@ The predictions produced by this model should **not** be used as a substitute fo
 
 **Rishita Bhowmik**
 
-B.Sc. Data Science
+B.Sc. Data Science Student 
