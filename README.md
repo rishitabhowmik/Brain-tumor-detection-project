@@ -83,3 +83,20 @@ Brain-tumor-detection-project/
 ├── .gitattributes
 └── README.md
 
+## Dataset
+
+The dataset used for training contains brain MRI images divided into training and testing sets with four tumor categories.
+The dataset itself is not included in this GitHub repository because of its size.
+
+
+## Disclaimer
+
+This project was created for **educational and academic purposes only**.
+
+The predictions produced by this model should **not** be used as a substitute for professional medical diagnosis or medical advice.
+
+## Author
+
+**Rishita Bhowmik**
+
+B.Sc. Data Science
